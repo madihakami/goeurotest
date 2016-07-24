@@ -1,2 +1,3 @@
 # goeurotest
-sample code for GoEuro Test App
+
+Usage: java -jar GoEuroTest.jar "Potsdam"
